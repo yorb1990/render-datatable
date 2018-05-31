@@ -1,6 +1,6 @@
 {
   "name": "render-datatable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GUI from WebAPI search undefined (verision donet-aspnet core and php-laravel)",
   "main": "index.js",
   "scripts": {
