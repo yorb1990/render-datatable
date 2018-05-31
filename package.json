@@ -1,0 +1,27 @@
+{
+  "name": "render-datatable",
+  "version": "1.0.0",
+  "description": "GUI from WebAPI search undefined (verision donet-aspnet core and php-laravel)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "r-dt"
+  ],
+  "author": "Brain Rafael Ortega Yañez",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorb1990/render-datatable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yorb1990/render-datatable/issues"
+  },
+  "homepage": "https://github.com/yorb1990/render-datatable#readme"
+}
