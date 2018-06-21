@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lib"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\lib\\dt.js",
   "PreviewInSolutionExplorer": false
 }

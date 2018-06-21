@@ -1,8 +1,8 @@
 {
   "name": "rendata",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "GUI from WebAPI search undefined (verision donet-aspnet core and php-laravel)",
-  "main": "lib/dt.js",
+  "main": "bin/dt.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
